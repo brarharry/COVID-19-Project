@@ -1,4 +1,4 @@
-# COVID-19-Project
+# COVID-19-Project (written in Java 13.0.2 using NetBeans 11.3 on Windows 10)
 This project is a COVID-19 statistics dashboard based on real data from HDX (The Humanitarian Data Exchange. Novel Coronavirus cases Data),
 NYTimes. COVID19 Data, and DataHub.Novel Coronavirus 2019
 2 csv files are provided that are collected from the sources mentioned below. 
